@@ -1,0 +1,24 @@
+# Core ML libraries
+stable-baselines3>=1.8.0
+gym-retro>=0.8.0
+
+# Data processing
+numpy>=1.21.0
+opencv-python>=4.5.0
+
+# Hyperparameter optimization
+optuna>=3.0.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# System utilities
+psutil>=5.8.0
+
+# Optional: For better performance
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Optional: For Jupyter notebooks (if you add them later)
+# jupyter>=1.0.0
+# ipykernel>=6.0.0 
