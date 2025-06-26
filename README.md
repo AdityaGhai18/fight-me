@@ -2,7 +2,8 @@
 Applying ML approaches to fighting games
 
 This repo contains reinforcement learning agents trained to play Street Fighter II using Stable Baselines3 and Stable Retro. 
-I will be updating this with newly updated environements, different strategies and possibly a VLA approach coming up!
+I will be updating this with newly updated environements, different strategies and possibly a VLA approach coming up! 
+Taking a short break from this project will be back soon!!
 
 ## Project Structure
 
