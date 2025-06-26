@@ -14,10 +14,9 @@ libs_wheels_tars/
 *.tar.gz
 *.tar
 
-# ROM files (copyrighted content)
+# ROM files (copyrighted content) - exclude only ROMs, not the whole data folder
 street-fighter/roms/
 *.rom
-*.zip
 *.bin
 
 # Python cache
@@ -116,15 +115,12 @@ Thumbs.db
 *.swo
 *~
 
-# Logs
+# General log files (but allow training logs in data/logs/)
 *.log
-logs/
 
-# Model files (optional - you might want to share these)
-# *.zip
-# data/models/
+# Training progress images (keep logs but not images)
+*training_progress*.png
+*.png
 
-# Training checkpoints (optional - you might want to share these)
-# data/models/checkpoints*/
-# data/models/best_model*/
+# Exclude py-fighter (separate project)
 py-fighter/
