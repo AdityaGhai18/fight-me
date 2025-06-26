@@ -38,6 +38,6 @@ ROM files not included, Libraries were built from source and not included
 - `test_rewards.py`, `random-actions.py`, `testing_custom_env.py`: Testing and debugging
 
 ## Latest Performance
-Beats quite a few of the initial bots, here is a link to the (best latest run)[https://youtu.be/9xbVs3dH0Nk]
+Beats quite a few of the initial bots, here is a link to the [best latest run](https://youtu.be/9xbVs3dH0Nk)
 
 
