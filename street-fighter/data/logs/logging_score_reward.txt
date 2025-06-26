@@ -1,0 +1,1787 @@
+(venv-3.9) (base) adityaghai@Adityas-Laptop street-fighter % python3 random-actions.py
+2025-06-18 01:20:02.991 Python[57322:301552] ApplePersistenceIgnoreState: Existing state will not be touched. New state will be written to /var/folders/g7/xn_jl74s6_n_3x3gs116cqhr0000gn/T/org.python.python.savedState
+2025-06-18 01:20:03.051 Python[57322:301552] +[IMKClient subclass]: chose IMKClient_Modern
+2025-06-18 01:20:03.074 Python[57322:301552] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+
+Starting Episode 1/10
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 0, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 1, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 2, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 3, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 4, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 5, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 6, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 7, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 8, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 9, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 10, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 11, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 12, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 13, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 14, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 15, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 16, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 17, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 18, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 19, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 20, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 21, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 22, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 23, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 24, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 25, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 26, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 27, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 28, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 29, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 30, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 31, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 32, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 33, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 34, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 35, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 36, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 37, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 38, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 39, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 40, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 41, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 42, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 43, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 44, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 45, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 46, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 47, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 48, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 49, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 50, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 51, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 52, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 53, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 54, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 55, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 56, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 57, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 58, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 59, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 60, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 61, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 62, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 63, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 64, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 65, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 66, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 67, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 68, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 69, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 70, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 71, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 72, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 73, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 74, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 75, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 76, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 77, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 78, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 79, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 80, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 81, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 82, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 83, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 84, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 85, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 86, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 87, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 88, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 89, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 90, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 91, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 92, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 93, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 94, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 95, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 96, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 97, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 98, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 99, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 100, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 101, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 102, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 103, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 104, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 105, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 106, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 107, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 108, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 109, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 110, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 111, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 112, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 113, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 114, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 115, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 116, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 117, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 118, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 119, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 120, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 121, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 122, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 123, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 124, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 125, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 126, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 127, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 128, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 129, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 130, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 131, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 132, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 133, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 134, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 135, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 136, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 137, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 138, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 139, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 140, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 141, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 142, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 143, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 144, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 145, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 146, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 147, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 148, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 149, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 150, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 151, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 152, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 153, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 154, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 155, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 156, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 157, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 158, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 159, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 160, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 161, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 162, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 163, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 164, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 165, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 166, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 167, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 168, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 169, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 170, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 171, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 172, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 173, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 174, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 175, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 176, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 177, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 178, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 179, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 180, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 181, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 182, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 183, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 184, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 185, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 186, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 187, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 188, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 189, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 190, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 191, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 192, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 193, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 176, 'matches_won': 0, 'score': 0}
+Step: 194, Current Reward: 0.000, Cumulative Reward: 0.000
+Health reward: -62, Score reward: 0, Total reward: -62
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 195, Current Reward: -62.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 196, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 197, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 198, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 199, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 200, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 201, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 202, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 203, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 204, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 205, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 206, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 207, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 208, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 209, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 210, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 211, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 212, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 213, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 214, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 215, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 216, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 217, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 218, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 219, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 220, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 221, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 222, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 223, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 224, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 225, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 226, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 227, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 228, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 229, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 230, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 231, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 232, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 233, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 234, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 235, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 236, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 237, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 238, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 239, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 240, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 241, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 242, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 243, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 244, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 245, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 246, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 247, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 248, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 249, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 250, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 251, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 252, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 253, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 254, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 255, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 256, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 257, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 258, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 259, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 260, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 261, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 262, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 263, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 264, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 265, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 266, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 267, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 268, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 269, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 270, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 271, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 272, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 273, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 274, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 275, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 276, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 277, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 278, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 279, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 280, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 281, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 282, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 283, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 284, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 285, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 286, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 287, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 288, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 289, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 290, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 291, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 292, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 293, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 294, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 295, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 296, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 297, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 298, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 299, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 300, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 301, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 302, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 303, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 304, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 305, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 306, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 307, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 308, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 309, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 310, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 311, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 312, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 313, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 314, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 315, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 316, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 317, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 318, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 319, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 320, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 321, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 322, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 323, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 324, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 325, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 326, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 327, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 328, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 329, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 330, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 331, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 332, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 333, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 334, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 335, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 336, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 337, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 338, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 339, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 340, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 341, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 342, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 343, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 344, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 345, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 346, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 347, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 348, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 349, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 350, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 351, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 352, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 353, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 354, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 355, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 356, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 357, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 358, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 359, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 360, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 176, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 361, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 0}
+Step: 362, Current Reward: 0.000, Cumulative Reward: -62.000
+Health reward: 0, Score reward: 500, Total reward: 500
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 363, Current Reward: 500.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 364, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 365, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 366, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 367, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 368, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 369, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 370, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 371, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 372, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 373, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 374, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 375, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 376, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 377, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 378, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 379, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 380, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 381, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 382, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 383, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 384, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 385, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 386, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 387, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 388, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 389, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 390, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 391, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 392, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 393, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 394, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 395, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 396, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 397, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 398, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 399, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 400, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 401, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 402, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 403, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 404, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 405, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 406, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 407, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 408, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 409, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 410, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 411, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 412, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 413, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 414, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 415, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 416, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 417, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 418, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 419, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 420, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 421, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 422, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 423, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 424, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 425, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 426, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 427, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 428, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 429, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 430, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 431, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 432, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 433, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 434, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 435, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 436, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 437, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 438, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 439, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 440, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 441, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 442, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 443, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 444, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 445, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 446, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 447, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 448, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 449, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 450, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 451, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 452, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 453, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 454, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 455, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 456, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 457, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 458, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 459, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 460, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 461, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 462, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 463, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 464, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 465, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 466, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 467, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 468, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 469, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 470, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 471, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 472, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 473, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 474, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 475, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 476, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 477, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 478, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 479, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 480, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 481, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 482, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 483, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 484, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 485, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 486, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 487, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 488, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 489, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 490, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 491, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 492, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 493, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 140, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 494, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 500}
+Step: 495, Current Reward: 0.000, Cumulative Reward: 438.000
+Health reward: 0, Score reward: 500, Total reward: 500
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 496, Current Reward: 500.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 497, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 498, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 499, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 500, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 501, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 502, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 503, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 504, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 505, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 506, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 507, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 508, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 509, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 510, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 511, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 512, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 513, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 514, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 515, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 516, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 517, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 518, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 519, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 520, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 521, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 522, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 523, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 524, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 525, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 526, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 527, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 528, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 529, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 530, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 531, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 532, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 533, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 534, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 535, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 536, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 537, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 538, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 539, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 540, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 541, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 542, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 543, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 544, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 545, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 546, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 547, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 548, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 549, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 550, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 551, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 552, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 553, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 554, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 555, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 556, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 557, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 558, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 559, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 560, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 561, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 562, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 563, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 564, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 565, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 566, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 567, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 568, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 569, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 570, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 571, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 572, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 573, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 574, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 575, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 576, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 577, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 578, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 579, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 580, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 581, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 582, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 583, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 584, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 585, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 586, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 587, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 588, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 589, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+Step: 590, Current Reward: 0.000, Cumulative Reward: 938.000
+Health reward: 0, Score reward: 0, Total reward: 0
+{'continuetimer': 0, 'enemy_matches_won': 0, 'enemy_health': 104, 'health': 145, 'matches_won': 0, 'score': 1000}
+^CTraceback (most recent call last):
+  File "/Users/adityaghai/Desktop/fight/street-fighter/random-actions.py", line 46, in <module>
+    time.sleep(0.1)
+KeyboardInterrupt
+
+(venv-3.9) (base) adityaghai@Adityas-Laptop street-fighter %  c
