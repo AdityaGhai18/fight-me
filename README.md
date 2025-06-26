@@ -22,8 +22,6 @@ fight/
 
 ROM files not included, Libraries were built from source and not included
 
-## Quick Start
-
 ## Environment Versions
 - **custom_env.py**: Basic implementation
 - **custom_env2.py**: Improved rewards
